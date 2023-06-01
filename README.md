@@ -1,18 +1,6 @@
 # ChatBot💬 WebApp in Python using Flask
 ***
-***
-***
-****
-*
-*
-*
 chatterbot import doesnt work if the python version is less than 3.4 or greater than 3.8
-*
-*
-*
-****
-***
-***
 ***
 ## Usage:-
 
